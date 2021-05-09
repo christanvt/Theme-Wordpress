@@ -1,0 +1,57 @@
+body {
+  background-color: aquamarine;
+}
+article {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  border-bottom: 1px lightblue solid;
+}
+.categories li,
+.tags li {
+  display: inline-block;
+}
+.right {
+  text-align: right;
+}
+.menu img {
+  height: 72px;
+}
+footer {
+  text-align: center;
+}
+.image,
+.title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.pnftitle {
+  text-align: center;
+  font-size: 3rem !important;
+  height: 50vh;
+  margin-top: 3rem;
+}
+.pnftitle h1 {
+  font-size: 6rem !important;
+}
+.pnftitle h1 img {
+  height: 25vh;
+}
+.tags {
+  display: flex;
+}
+.tags a {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+@media (max-width: 540px) {
+  article {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    transform: translate(25%, 0%);
+  }
+  .right img {
+    width: 80%;
+  }
+}
