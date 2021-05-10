@@ -17,4 +17,4 @@ Before any use, you must at least:
 
 ![alt text](https://github.com/christanvt/https://github.com/christanvt/Theme-Wordpress.git/blob/main/screens/screen_shot_01.png?raw=true)
 
-![Alt text](relative/path/to/screen_shot_01.png?raw=true "Title")
+![Alt text](relative/path/to/screens/screen_shot_01.png?raw=true "Title")
