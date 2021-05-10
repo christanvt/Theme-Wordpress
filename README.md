@@ -15,6 +15,6 @@ Before any use, you must at least:
 
 ## Screens shots :
 
-![alt text](https://github.com/christanvt/https://github.com/christanvt/Theme-Wordpress.git/blob/main/screens/screen_shot_01.png?raw=true)
+![alt text](https://github.com/christanvt/Theme-Wordpress/blob/bf9f85b5ad9147bddb5c7c4e8e290e8a48a6d840/screens/screen_shot_01.png?raw=true)
 
 ![Alt text](relative/path/to/screens/screen_shot_01.png?raw=true "Title")
