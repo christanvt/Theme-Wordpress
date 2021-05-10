@@ -17,4 +17,8 @@ Before any use, you must at least:
 
 ![alt text](https://github.com/christanvt/Theme-Wordpress/blob/bf9f85b5ad9147bddb5c7c4e8e290e8a48a6d840/screens/screen_shot_01.png?raw=true)
 
-![Alt text](relative/path/to/screens/screen_shot_01.png?raw=true "Title")
+![alt text](https://github.com/christanvt/Theme-Wordpress/blob/4a99e327d18499cb5e449365972ea58f33e7c38a/screens/screen_shot_02.png?raw=true)
+
+![alt text](https://github.com/christanvt/Theme-Wordpress/blob/4a99e327d18499cb5e449365972ea58f33e7c38a/screens/screen_shot_03.png?raw=true)
+
+![alt text](https://github.com/christanvt/Theme-Wordpress/blob/4a99e327d18499cb5e449365972ea58f33e7c38a/screens/screen_shot_04.png?raw=true)
