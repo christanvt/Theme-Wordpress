@@ -1,5 +1,16 @@
 # ECF - Part 4 - Projet blog - Thème Wordpress
 
+<p align="center">
+  <img  src="https://frwpgo.files.wordpress.com/2019/08/sw-671836.jpg?w=1024">
+</p>
+<p align="center" ><em>image source : WordPress.com</em></p>
+
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/WordPress-lightgrey?style=flat&logo=wordpress&logoColor=white&labelColor=2497ff">
+  <img height="30" src="https://img.shields.io/badge/MariaDB-lightgrey?style=flat&logo=mariadb&logoColor=white&labelColor=red">
+  <img height="30" src="https://img.shields.io/badge/Php-lightgrey?style=flat&logo=php&logoColor=white&labelColor=8892BF">
+</p>
+
 ## Install
 
 - Download the repository zip file
